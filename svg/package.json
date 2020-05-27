@@ -1,0 +1,22 @@
+{
+  "version": "0.0.1",
+  "scripts": {
+    "svg_sprites": "npm run synthetic_svg_sprites",
+    "synthetic_svg_sprites": "gulp svg_sprites"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-svg-sprites": "^4.1.2"
+  },
+  "dependencies": {},
+  "author": {
+    "name": "",
+    "email": "",
+    "url": ""
+  },
+  "maintainers": [],
+  "contributors": [
+    "张成林<>(https://github.com/zhangchenglin)"
+  ]
+}
