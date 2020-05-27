@@ -1,5 +1,3 @@
-/.idea/justauth-oauth-logo.iml
-/.idea/misc.xml
-/.idea/modules.xml
-/.idea/vcs.xml
-/.idea/workspace.xml
+/.idea/
+/svg/node_modules/
+/svg/assets/
