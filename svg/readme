@@ -1,0 +1,4 @@
+参考
+合成雪碧图可以使用下面2个组件
+https://www.npmjs.com/package/gulp-svg-sprites
+https://www.npmjs.com/package/gulp-svg-sprite
